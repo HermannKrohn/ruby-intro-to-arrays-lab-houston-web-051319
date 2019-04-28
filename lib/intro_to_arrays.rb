@@ -2,7 +2,7 @@ def instantiate_new_array
   []
 end
 
-def instantiate_new_array
+def 
   [1, 2]
 end
 
