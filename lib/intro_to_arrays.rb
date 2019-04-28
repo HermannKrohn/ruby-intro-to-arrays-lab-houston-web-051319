@@ -6,4 +6,4 @@ def instantiate_new_array
   [1, 2]
 end
 
-def 
+def first_element
